@@ -1,0 +1,9 @@
+1: 'Delivery',
+2: 'Delivery',
+3: 'Delivery',
+4: 'Exploitation',
+5: 'Installation',
+6: 'Weaponization',
+7: 'Installation',
+8: 'Exploitation',
+9: 'Act on Objective'
