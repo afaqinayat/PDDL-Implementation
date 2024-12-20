@@ -1,7 +1,8 @@
 # PDDL-Implementation
 
-This directory contain the implementation of PDDL for the phishing attack and the ransomware attack.
+This directory contains the implementation of PDDL for the phishing attack and the ransomware attack.
 
+#Installition of the Planner
 
 To run the code, you need to install the metric-ff planner from the given link . all the detailed information is written there for the installation of the metric-ff planer. 
 link:https://github.com/afaqinayat/metric-ff-crossplatform/blob/main/README.md#metric-ff
