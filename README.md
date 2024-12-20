@@ -2,10 +2,13 @@
 
 This directory contains the implementation of PDDL for the phishing attack and the ransomware attack.
 
-#Installition of the Planner
+# Installition of the Planner
 
-To run the code, you need to install the metric-ff planner from the given link . all the detailed information is written there for the installation of the metric-ff planer. 
+To run the code, you need to install the metric-ff planner from the given link . All the detailed information is written there for the installation of the metric-ff planer. 
 link:https://github.com/afaqinayat/metric-ff-crossplatform/blob/main/README.md#metric-ff
+
+the information about the Fast-Downward planner
+https://www.fast-downward.org/
 
 
 -> To run the . pddl files, run the metric-ff_planner.py file . This will help you test whether your .pddl files are working or not.
