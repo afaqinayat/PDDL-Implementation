@@ -14,17 +14,18 @@ https://www.fast-downward.org/
 
 # How to run the Planner
 
-After the setup of the planner, you can use the Python script, which runs the planner and the .pddl file . Phishing and ransomware are both modeled separately.
+After the planner is set up, you can use the Python script, which runs the planner and the .pddl file. Phishing and ransomware are both modeled separately.
 
 To run the . pddl files, run the metric-ff_planner.py file. This will help you test whether your .pddl files are working or not.
 
-For the planner Fast-Downwad, you can change the search algorithm to find the plans.
- 
-Then, for the classification of the attack steps, you need to run the new_modified_version.py. 
+For the planner Fast-Downwad, run the script_run_planner files, and you can also change the search algorithm to find the plans.
+ # Classification
+ For the keyword match, the keyword_approach file needs to be run.
+For the classification of the attack steps using OpenAI, you need to run the new_modified_version.py. 
 
 # Controls mapping
 
-Control mapping files have controls that are common from both control frameworks NIST and ISO 27001 and are used for malware.
+Control mapping files have controls that are common from both control frameworks, NIST and ISO 27001 which are used for malware. This will provide the recommended controls.
 
 
 
