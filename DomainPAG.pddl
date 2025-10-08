@@ -1,4 +1,4 @@
-(define (domain PAG)
+(define (domain Phishing)
 (:requirements :equality :disjunctive-preconditions)
 
 (:functions
