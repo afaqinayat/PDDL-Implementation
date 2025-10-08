@@ -1,6 +1,7 @@
 (define (domain Phishing)
 (:requirements :equality :disjunctive-preconditions)
 
+
 (:functions
 (version ?software))
 
