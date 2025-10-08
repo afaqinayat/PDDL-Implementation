@@ -1,5 +1,5 @@
-(define (problem PAG-problem1)
-  (:domain PAG)
+(define (problem Phishing-problem)
+  (:domain Phishing)
   (:objects
     user1
     bad-email
